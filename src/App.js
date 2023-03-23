@@ -12,7 +12,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1>Sriram</h1>
+        <h1>Sriram's first try</h1>
       </header>
     </div>
   );
